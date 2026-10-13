@@ -1,4 +1,20 @@
-# Voyage — сайт турагентства на React
+<div align="center">
+
+# Voyage
+
+**Сайт турагентства на React** · RU / EN
+
+<a href="https://cdduke.github.io/voyage-travel/"><img src="https://img.shields.io/badge/▶_Живое_демо-открыть-2ea44f?style=for-the-badge" alt="Live demo"></a>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Motion](https://img.shields.io/badge/Motion-FF0055?style=flat-square&logo=framer&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Responsive](https://img.shields.io/badge/Адаптив-телефон_·_планшет_·_ПК-0ea5e9?style=flat-square)
+
+<img src="docs/preview-desktop.png" alt="Voyage — десктоп" width="73%">&nbsp;<img src="docs/preview-mobile.png" alt="Voyage — телефон" width="22%">
+
+*🇬🇧 Travel agency SPA — procedural SVG landscapes, catalogue filters with animated layout, favourites and a validated booking flow.*
+
+</div>
+
+---
 
 Концепт сайта авторских туров: каталог с фильтрами, избранное, карточка тура и бронирование.
 Все «фотографии» — это **пейзажи, которые генерирует код** (SVG): горы, море, пустыня, мегаполис,
@@ -36,3 +52,6 @@ npm run build    # tsc + сборка
 ---
 
 *Concept website built as a portfolio piece — no bookings are sent. Bilingual: Russian / English.*
+
+
+**Демо:** https://cdduke.github.io/voyage-travel/
